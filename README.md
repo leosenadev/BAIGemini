@@ -12,6 +12,8 @@ $ npm install --save
 e seguida 
 $ nodemon app
 
+## Abir recurso:  BA.I Gemini e api_gemini separados
+
 Pacotes node:
  "@google/generative-ai": "^0.11.0",
     "body-parser": "^1.15.2",
@@ -40,3 +42,4 @@ Pacotes node:
     "marked": "^12.0.2",
     "md": "^0.6.0",
     "nodemon": "^3.1.0"
+#imersao-ia-alura-google
