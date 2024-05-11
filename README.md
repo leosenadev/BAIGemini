@@ -8,8 +8,8 @@ do Estado da Bahia. #imersao-ia-alura-google
 ### GEMINI: api_gemini
 
 API: api-gemini, abrir no Vs code e realizar a instalação dependências do NODE JS.
-$ npm install --save 
-e seguida
+$ npm install --save  \n
+e seguida \n
 $ nodemon app
 
 Pacotes node:
@@ -26,8 +26,8 @@ Pacotes node:
 
 ### FRONT-END : chat_boot_gemini
 
-$ npm install --save 
-e seguida
+$ npm install --save \n
+e seguida \n
 $ nodemon app
 
 Pacotes node:
