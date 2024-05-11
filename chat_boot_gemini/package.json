@@ -1,0 +1,22 @@
+{
+  "name": "chat_boot_ia_gemini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Santos Sena",
+  "license": "ISC",
+  "dependencies": {
+    "@wcj/markdown-to-html": "^3.0.2",
+    "body-parser": "^1.15.2",
+    "consign": "^0.1.2",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "express-validator": "^2.20.8",
+    "marked": "^12.0.2",
+    "md": "^0.6.0",
+    "nodemon": "^3.1.0"
+  }
+}

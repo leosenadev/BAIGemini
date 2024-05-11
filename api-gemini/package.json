@@ -1,0 +1,23 @@
+{
+  "name": "api-gemini",
+  "version": "1.0.0",
+  "description": " Desafio: Imersão Inteligência Artificial: Alura e Gemini, a IA do Google",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leosenadev",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.11.0",
+    "body-parser": "^1.15.2",
+    "consign": "^0.1.2",
+    "dotenv": "^16.4.5",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "express-validator": "^2.20.8",
+    "md": "^0.6.0",
+    "node-navigator": "^1.0.1",
+    "nodemon": "^3.1.0"
+  }
+}
