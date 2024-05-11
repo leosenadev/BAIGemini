@@ -1,8 +1,8 @@
-### Desenvolvimento com Gemini IA com Node JS, Aplicação que consulta API Gemin
+### Desenvolvimento com Gemini IA com Node JS, Aplicação com Geolocalização que consulta Gemini 
 
 Nome da aplicação : BA.I Gemini.
 
-Aplicação que consulta Gemini retornando informações sobre distância, consumo, tempo estimado, cultura e lazer de uma determinado destino turístico,
+Aplicação com Geolocalização que consulta Gemini retornando informações sobre distância, consumo, tempo estimado, cultura e lazer de uma determinado destino turístico,
 do Estado da Bahia. #imersao-ia-alura-google
 
 ### GEMINI: api_gemini
